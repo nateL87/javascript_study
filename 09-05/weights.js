@@ -8,5 +8,5 @@
 
 var height = 180;
 var weight = 80;
-var normalWeight = (height - 100) *0.9;
-console.log(`적정체중이 ${normalWeight}Kg 이며 현재 적정체중에서 ${weight-normalWeight}Kg 초과했습니다`)
+var normalWeight = (height - 100) * 0.9;
+console.log(`적정체중이 ${normalWeight}Kg 이며 현재 적정체중에서 ${weight-normalWeight}Kg 초과했습니다`);
